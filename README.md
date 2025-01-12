@@ -2,7 +2,7 @@
 
 This repository contains the implementation of a data-driven forecasting model for dengue incidence in Sri Lanka, leveraging climatic and epidemiological data. The project utilizes Random Forest Regressor and other statistical methods to analyze historical dengue trends and predict future outbreaks.
 
-This work was carried out as part of a Master's in Industrial Mathematics at the University of Peradeniya by Dilini Thejani Karunasena, Sri Lanka, under the supervision of Dr. Lakshika S. Nawarathna.
+This work was carried out by Dilini Thejani Karunasena as part of a Master's in Industrial Mathematics at the University of Peradeniya, Sri Lanka, under the supervision of Dr. Lakshika S. Nawarathna.
 
 ---
 
