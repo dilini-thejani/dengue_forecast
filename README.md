@@ -105,7 +105,7 @@ dengue_forecast/
 ├── README.md              # Project overview and documentation
 ├── heatmaps.ipynb         # Visualization of province-wise heatmap correlation between dengue incidence and climate factors
 ├── histograms.ipynb       # Frequency distribution of dengue incidence
-├── province_wise_prediction.ipynb   # Testing the prediction using Random Forest Regression
+├── province_wise_prediction.ipynb   # Province-wise prediction for year 2023 and 2024
 ├── shapiro_wilki_test.ipynb       # Statistical analysis (Shapiro-Wilk test)
 └── time_series_plots.ipynb        # Time series visualization of annual dengue incidence and climate factors
 ```
