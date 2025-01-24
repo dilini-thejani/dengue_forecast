@@ -25,7 +25,7 @@ Key outputs include:
 
 - **Data Visualization**: Explore the distribution of dengue cases over time and space.
 - **Correlation Analysis**: Identify relationships between climatic factors and dengue incidence.
-- **Machine Learning Model**: Predict future dengue outbreaks using Random Forest Regressor, Linear Regression & Support Vector Machine (SVM)
+- **Machine Learning Model**: Predict future dengue outbreaks using Random Forest Regressor, Linear Regression & Support Vector Machine (SVM).
 - **Interactive Use in Google Colab**: Easily run and adapt the code using Jupyter notebooks.
 
 ---
